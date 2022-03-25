@@ -2,7 +2,7 @@
 ![pytorch](https://img.shields.io/badge/pytorch-1.2-blue.svg)
 ![Author](https://img.shields.io/badge/wangrui-AHU-orange.svg)
 
-#Prepare
+##Prepare
 ## Prerequisites
 - Python 3.6
 - GPU Memory >= 11G
@@ -71,7 +71,7 @@ Then,if everything goes well,you will get directory like below structure.
              ├── train_ori_newID
 ``` 
 
-#Training and Evaluate
+##Training and Evaluate
 For market to duke:
 ```
 python train_m2d.py
