@@ -3,6 +3,7 @@
 ![Author](https://img.shields.io/badge/wangrui-AHU-orange.svg)
 
 ##Prepare
+
 ## Prerequisites
 - Python 3.6
 - GPU Memory >= 11G
@@ -72,6 +73,7 @@ Then,if everything goes well,you will get directory like below structure.
 ``` 
 
 ##Training and Evaluate
+
 For market to duke:
 ```
 python train_m2d.py
